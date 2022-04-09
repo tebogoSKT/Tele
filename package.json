@@ -40,7 +40,7 @@
     "highcharts-angular": "^2.4.0",
     "jspdf": "^1.5.3",
     "material-design-icons": "^3.0.1",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "mssql": "^5.0.6",
     "ngx-auth": "^5.0.0",
     "ngx-cookie-service": "^2.1.0",
