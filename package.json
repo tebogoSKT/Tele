@@ -33,7 +33,7 @@
     "bootstrap": "^4.3.1",
     "chart.js": "^2.7.3",
     "core-js": "^2.5.4",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "font-awesome": "^4.7.0",
     "fusioncharts": "^3.13.4",
     "highcharts": "^7.1.1",
